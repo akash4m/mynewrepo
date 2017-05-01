@@ -9,7 +9,7 @@ import java.util.Scanner;
 	public class Test {
 		public double findHalfAreaPoint(Curve curve, double p) {
 			// YOUR CODE HERE
-
+           return 0.0d;
 		}
 		
 		
@@ -78,7 +78,7 @@ import java.util.Scanner;
 				}
 				HalfAreaPoint t=new HalfAreaPoint();
 				double p = 10.0d;
-				double h = t.findHalfAreaPoint(c, p);
+				double h = 0.0d;//t.findHalfAreaPoint(c, p);
 				System.out.println(Math.round(h*1000d));
 			}
 

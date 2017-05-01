@@ -17,7 +17,7 @@ public class BST {
 		if(root != null){
 		Node current = root;
 		while(current != null){
-			if
+			//if
 		}
 		}
 	}
